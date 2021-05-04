@@ -1,0 +1,21 @@
+#wrapper {
+	position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+	background: url("../../assets/img/background.jpeg") no-repeat center center fixed;
+	background-size: cover;
+    z-index: 10;
+}
+
+#login-card {
+	margin-top: 9%;
+	margin-bottom: 3.4%;
+}
+
+.errorLogin{
+	font-size: 1.2em;
+	color: #ff0000;
+	font-weight: 500;
+}

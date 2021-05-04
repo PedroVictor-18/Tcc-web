@@ -1,0 +1,17 @@
+.buttonViewColor {
+	margin: 1%;
+	background-color: rgb(27, 99, 65);
+	color: #ffffff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 40px;
+	height: 40px;
+	padding: 5px;
+	border: 0;
+	border-radius: 5px;
+}
+.buttonViewColor:hover {
+	background-color: rgb(45, 167, 110);
+	transform: translateY(-1px);
+}
